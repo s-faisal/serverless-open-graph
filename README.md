@@ -1,4 +1,4 @@
-# Serverless Open Graph Parser
+# serverless-open-graph-parser
 
 A serverless project that can fetch the raw open graph tags of a given URL.
 
