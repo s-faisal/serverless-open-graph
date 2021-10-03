@@ -47,3 +47,12 @@ Output
     ] 
 }
 ```
+## Contribute
+Found a bug, please [create an issue](https://github.com/s-faisal/serverless-open-graph-parser/issues/new)
+
+## How can I support developers?
+
+- Star our GitHub repo 🌟
+- Create pull requests, submit bugs, suggest new features or documentation updates 🔧
+
+We're always happy to receive your feedback!
